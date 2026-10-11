@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="171c1eff-aa46-4bd9-8903-9a3bc18f4df7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/abu2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/abu2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chora não" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,8 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="TaskManager">

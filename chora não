@@ -1,0 +1,4 @@
+git pull: para receber
+git add .: para começar o compartilhamento
+git commit -m "67": 2° passo para compartilhar
+git push: último passo para compartilhar
